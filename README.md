@@ -1,2 +1,2 @@
 # fluffy-potato
-Projects for study
+Project for study
